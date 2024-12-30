@@ -1,0 +1,10 @@
+D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment03\HRMS\bin\Debug\HRMS.exe.config
+D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment03\HRMS\bin\Debug\HRMS.exe
+D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment03\HRMS\bin\Debug\HRMS.pdb
+D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment03\HRMS\bin\Debug\EmployeLib.dll
+D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment03\HRMS\bin\Debug\EmployeLib.pdb
+D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment03\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment03\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache
+D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment03\HRMS\obj\Debug\HRMS.csproj.Up2Date
+D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment03\HRMS\obj\Debug\HRMS.exe
+D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment03\HRMS\obj\Debug\HRMS.pdb
