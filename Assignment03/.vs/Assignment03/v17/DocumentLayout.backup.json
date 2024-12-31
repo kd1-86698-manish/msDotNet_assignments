@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{4834CD0D-8480-42C3-8F5A-F1B4430A58DA}|HRMS\\HRMS.csproj|solutionrelative:hrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8A6C6820-9791-48B7-9323-B9E3AEFFCF5A}|EmployeLib\\EmployeLib.csproj|d:\\dac\\dac_assignment\\msdotnet_assignments\\assignment03\\employelib\\wageemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C6820-9791-48B7-9323-B9E3AEFFCF5A}|EmployeLib\\EmployeLib.csproj|solutionrelative:employelib\\wageemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C6820-9791-48B7-9323-B9E3AEFFCF5A}|EmployeLib\\EmployeLib.csproj|d:\\dac\\dac_assignment\\msdotnet_assignments\\assignment03\\employelib\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C6820-9791-48B7-9323-B9E3AEFFCF5A}|EmployeLib\\EmployeLib.csproj|solutionrelative:employelib\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A6C6820-9791-48B7-9323-B9E3AEFFCF5A}|EmployeLib\\EmployeLib.csproj|d:\\dac\\dac_assignment\\msdotnet_assignments\\assignment03\\employelib\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A6C6820-9791-48B7-9323-B9E3AEFFCF5A}|EmployeLib\\EmployeLib.csproj|solutionrelative:employelib\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A6C6820-9791-48B7-9323-B9E3AEFFCF5A}|EmployeLib\\EmployeLib.csproj|d:\\dac\\dac_assignment\\msdotnet_assignments\\assignment03\\employelib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A6C6820-9791-48B7-9323-B9E3AEFFCF5A}|EmployeLib\\EmployeLib.csproj|solutionrelative:employelib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C6820-9791-48B7-9323-B9E3AEFFCF5A}|EmployeLib\\EmployeLib.csproj|d:\\dac\\dac_assignment\\msdotnet_assignments\\assignment03\\employelib\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C6820-9791-48B7-9323-B9E3AEFFCF5A}|EmployeLib\\EmployeLib.csproj|solutionrelative:employelib\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +34,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\Person.cs",
+              "RelativeDocumentMoniker": "EmployeLib\\Person.cs",
+              "ToolTip": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\Person.cs",
+              "RelativeToolTip": "EmployeLib\\Person.cs",
+              "ViewState": "AgIAADsAAAAAmJmZmfk4wEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T14:55:25.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\Manager.cs",
+              "RelativeDocumentMoniker": "EmployeLib\\Manager.cs",
+              "ToolTip": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\Manager.cs",
+              "RelativeToolTip": "EmployeLib\\Manager.cs",
+              "ViewState": "AgIAAB0AAADA/f////8lwCoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T14:48:54.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeLib\\Employee.cs",
+              "ToolTip": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\Employee.cs",
+              "RelativeToolTip": "EmployeLib\\Employee.cs",
+              "ViewState": "AgIAAD8AAAAALDMzMzMVwFEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T14:47:31.822Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,35 +83,35 @@
               "RelativeDocumentMoniker": "HRMS\\Program.cs",
               "ToolTip": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\HRMS\\Program.cs",
               "RelativeToolTip": "HRMS\\Program.cs",
-              "ViewState": "AgIAAAYAAAAYAAAAAAAhwBcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T18:27:24.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\Manager.cs",
-              "RelativeDocumentMoniker": "EmployeLib\\Manager.cs",
-              "ToolTip": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\Manager.cs",
-              "RelativeToolTip": "EmployeLib\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T18:13:05.189Z",
+              "WhenOpened": "2024-12-31T14:39:58.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\Employee.cs",
-              "RelativeDocumentMoniker": "EmployeLib\\Employee.cs",
-              "ToolTip": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\Employee.cs",
-              "RelativeToolTip": "EmployeLib\\Employee.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCQAAAAfAAAAAAAAAA==",
+              "Title": "Supervisor.cs",
+              "DocumentMoniker": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\Supervisor.cs",
+              "RelativeDocumentMoniker": "EmployeLib\\Supervisor.cs",
+              "ToolTip": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\Supervisor.cs",
+              "RelativeToolTip": "EmployeLib\\Supervisor.cs",
+              "ViewState": "AgIAACEAAADAmJmZmRkwwDEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T17:34:10.504Z",
+              "WhenOpened": "2024-12-31T14:35:40.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WageEmp.cs",
+              "DocumentMoniker": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\WageEmp.cs",
+              "RelativeDocumentMoniker": "EmployeLib\\WageEmp.cs",
+              "ToolTip": "D:\\DAC\\DAC_Assignment\\msDotNet_assignments\\Assignment03\\EmployeLib\\WageEmp.cs",
+              "RelativeToolTip": "EmployeLib\\WageEmp.cs",
+              "ViewState": "AgIAACUAAAAAZmZmZmYWwDcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T14:32:29.293Z",
               "EditorCaption": ""
             }
           ]

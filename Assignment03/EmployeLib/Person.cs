@@ -70,7 +70,7 @@ namespace EmployeLib
 
         public override string ToString()
         {
-            return "Name : "+_Name+ $"Gender: {(_Gender ? "Male" : "Female")}"+ " BirthDate : "+_Birth+" Age : "+Age+" Address : "+Address;
+            return "Name : "+_Name+ $" Gender : {(_Gender ? " Male" : " Female")}"+ " BirthDate : "+_Birth+" Age : "+Age+" Address : "+Address;
         }
 
         public Date Birth

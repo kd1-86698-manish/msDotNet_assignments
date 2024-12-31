@@ -38,13 +38,13 @@ namespace EmployeLib
         }
 
 
-        public Employee(string name, bool gender, Date birth, string address,string designation,double salary, Department dept) 
+        public Employee(string name, bool gender, Date birth, string address,double salary, Department dept) 
 			:base( name,gender,birth,address)
         {
 
 			_Id= ++Counter;
 			_Salary=salary;
-			_Designation = designation;
+			_Designation = "Employee";
 			_DepartType = dept;
 
         }
@@ -57,8 +57,7 @@ namespace EmployeLib
 			Console.WriteLine("Enter Salary : ");
 			_Salary=Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Enter Designation : ");
-			_Designation=Console.ReadLine();
+         
 
             Console.WriteLine("Enter DepartMent (HR, IT, Sales, Marketing, Finance) : ");
 			_DepartType=(Department) Enum.Parse(typeof(Department),Console.ReadLine());	//explicit typecasting required

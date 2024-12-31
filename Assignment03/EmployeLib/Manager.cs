@@ -11,14 +11,15 @@ namespace EmployeLib
 		private double _Bonus;
         public Manager():base()
         {
-            _Bonus = 0.0;
+            this.Bonus = 0.0;
             Designation = "Manager";
         }
 
         public Manager(string name, bool gender, Date birth, string address, double salary, Department dept, double bonus)
-             : base(name, gender, birth, address,"Manager",salary, dept)
+             : base(name, gender, birth, address,salary, dept)
         {
-            Bonus = bonus;
+           this.Bonus = bonus;
+            Designation = "Manager";
         }
 
 
@@ -39,7 +40,7 @@ namespace EmployeLib
 
         public override string ToString()
         {
-            return base.ToString()+"Bonus : "+_Bonus;
+            return base.ToString()+" Bonus : "+_Bonus;
         }
 
 
