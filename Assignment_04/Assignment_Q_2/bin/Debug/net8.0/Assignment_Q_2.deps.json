@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Assignment_Q_2/1.0.0": {
+        "dependencies": {
+          "AttributeClassLib": "1.0.0"
+        },
+        "runtime": {
+          "Assignment_Q_2.dll": {}
+        }
+      },
+      "AttributeClassLib/1.0.0": {
+        "runtime": {
+          "AttributeClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment_Q_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AttributeClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

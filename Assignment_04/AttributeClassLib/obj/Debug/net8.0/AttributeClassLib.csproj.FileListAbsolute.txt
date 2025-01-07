@@ -1,0 +1,11 @@
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\AttributeClassLib\bin\Debug\net8.0\AttributeClassLib.deps.json
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\AttributeClassLib\bin\Debug\net8.0\AttributeClassLib.dll
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\AttributeClassLib\bin\Debug\net8.0\AttributeClassLib.pdb
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\AttributeClassLib\obj\Debug\net8.0\AttributeClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\AttributeClassLib\obj\Debug\net8.0\AttributeClassLib.AssemblyInfoInputs.cache
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\AttributeClassLib\obj\Debug\net8.0\AttributeClassLib.AssemblyInfo.cs
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\AttributeClassLib\obj\Debug\net8.0\AttributeClassLib.csproj.CoreCompileInputs.cache
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\AttributeClassLib\obj\Debug\net8.0\AttributeClassLib.dll
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\AttributeClassLib\obj\Debug\net8.0\refint\AttributeClassLib.dll
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\AttributeClassLib\obj\Debug\net8.0\AttributeClassLib.pdb
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\AttributeClassLib\obj\Debug\net8.0\ref\AttributeClassLib.dll

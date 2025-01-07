@@ -1,0 +1,14 @@
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\obj\Debug\net8.0\Assignment_04_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\obj\Debug\net8.0\Assignment_04_.AssemblyInfoInputs.cache
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\obj\Debug\net8.0\Assignment_04_.AssemblyInfo.cs
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\obj\Debug\net8.0\Assignment_04_.csproj.CoreCompileInputs.cache
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\bin\Debug\net8.0\Assignment_04_.exe
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\bin\Debug\net8.0\Assignment_04_.deps.json
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\bin\Debug\net8.0\Assignment_04_.runtimeconfig.json
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\bin\Debug\net8.0\Assignment_04_.dll
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\bin\Debug\net8.0\Assignment_04_.pdb
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\obj\Debug\net8.0\Assignment_04_.dll
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\obj\Debug\net8.0\refint\Assignment_04_.dll
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\obj\Debug\net8.0\Assignment_04_.pdb
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\obj\Debug\net8.0\Assignment_04_.genruntimeconfig.cache
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Assignment_04_\obj\Debug\net8.0\ref\Assignment_04_.dll

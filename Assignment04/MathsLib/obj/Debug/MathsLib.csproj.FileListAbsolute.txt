@@ -1,6 +1,0 @@
-D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment04\MathsLib\bin\Debug\MathsLib.dll
-D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment04\MathsLib\bin\Debug\MathsLib.pdb
-D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment04\MathsLib\obj\Debug\MathsLib.csproj.AssemblyReference.cache
-D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment04\MathsLib\obj\Debug\MathsLib.csproj.CoreCompileInputs.cache
-D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment04\MathsLib\obj\Debug\MathsLib.dll
-D:\DAC\DAC_Assignment\msDotNet_assignments\Assignment04\MathsLib\obj\Debug\MathsLib.pdb

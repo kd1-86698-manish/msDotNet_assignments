@@ -1,0 +1,4 @@
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Poco\obj\Debug\net8.0\Poco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Poco\obj\Debug\net8.0\Poco.AssemblyInfoInputs.cache
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Poco\obj\Debug\net8.0\Poco.AssemblyInfo.cs
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\Poco\obj\Debug\net8.0\Poco.csproj.CoreCompileInputs.cache

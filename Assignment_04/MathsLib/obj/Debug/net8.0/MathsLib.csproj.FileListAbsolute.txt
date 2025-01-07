@@ -1,0 +1,11 @@
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\MathsLib\bin\Debug\net8.0\MathsLib.deps.json
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\MathsLib\bin\Debug\net8.0\MathsLib.dll
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\MathsLib\bin\Debug\net8.0\MathsLib.pdb
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\MathsLib\obj\Debug\net8.0\MathsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\MathsLib\obj\Debug\net8.0\MathsLib.AssemblyInfoInputs.cache
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\MathsLib\obj\Debug\net8.0\MathsLib.AssemblyInfo.cs
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\MathsLib\obj\Debug\net8.0\MathsLib.csproj.CoreCompileInputs.cache
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\MathsLib\obj\Debug\net8.0\MathsLib.dll
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\MathsLib\obj\Debug\net8.0\refint\MathsLib.dll
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\MathsLib\obj\Debug\net8.0\MathsLib.pdb
+C:\Users\rushi\OneDrive\Desktop\D_Data\PG-DAC\Github Data\PrepatoryAssignments\C#.net\Assignment_04_\MathsLib\obj\Debug\net8.0\ref\MathsLib.dll
